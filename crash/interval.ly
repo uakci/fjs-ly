@@ -7,7 +7,7 @@
     \cadenzaOn
     \hide Stem
     \relative c' {
-      \of "7/5" ges'! \os "5/7" fis!
+      <c \of "7/5" ges'!> <c \os "5/7" fis!>
     }
   }
   \layout {
